@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <em class="fas fa-store-alt"></em>
-                    <span>Nexus<span class="accent">Shop</span></span>
+                    <span>Kusuma<span class="accent">Shop</span></span>
                 </a>
             </div>
 
